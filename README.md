@@ -38,8 +38,8 @@ Print the accuracy
 
  PROGRAM:
  ```
- Developed by:C.Lalitha parameswari
-Reg.No: 212219220027
+ Developed by:P.Siva
+Reg.No: 2122220040121
 Program to implement a perceptron for classification using Python.
 
 import numpy as np
